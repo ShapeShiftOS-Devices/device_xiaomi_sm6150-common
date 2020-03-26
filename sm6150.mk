@@ -96,7 +96,6 @@ PRODUCT_PACKAGES += \
     liba2dpoffload \
     libaudio-resampler \
     libbatterylistener \
-    libcirrusspkrprot \
     libcomprcapture \
     libexthwplugin \
     libhdmiedid \
